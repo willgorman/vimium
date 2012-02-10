@@ -1,7 +1,7 @@
 Vimium - The Hacker's Browser
 =============================
 
-```ruby
+```javascript
 [1,2,3].map {|x| x * 42}
 ```
 
