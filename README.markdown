@@ -1,6 +1,10 @@
 Vimium - The Hacker's Browser
 =============================
 
+```ruby
+[1,2,3].map {|x| x * 42}
+```
+
 Vimium is a Chrome extension that provides keyboard based navigation and control in the spirit of the Vim
 editor.
 
